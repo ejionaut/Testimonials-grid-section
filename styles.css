@@ -154,7 +154,6 @@
     }
     
     .comments {
-      min-width: 16rem;
-      max-width: 20rem;
+      width: minmax(16rem, 20rem);
     }
   }
